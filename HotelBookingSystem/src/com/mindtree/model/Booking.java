@@ -19,6 +19,9 @@ import org.springframework.format.annotation.DateTimeFormat;
  * @author Ashutosh
  *
  */
+/*
+ * Entity class
+ */
 @Entity
 public class Booking {
 
